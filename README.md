@@ -4,7 +4,7 @@ I worked on and completed the Google Cybersecurity Certificate in the spring of 
 <br />
 <br />
 
-<h2>File Updater Algorithm Code Breakdown:</h2>
+<h2>File Updater Algorithm Breakdown:</h2>
 
 <p align="center">
 Assign import_file to the file name and remove_list to the IP addresses that no longer have access: <br/>
@@ -34,7 +34,7 @@ Create a while loop that will remove an element from ip_addresses that matches a
 <br />
 
 
-<h2>Full File Updater Algorithm Code:</h2>
+<h2>Full File Updater Code:</h2>
 
 <p align="center">
 This is the complete code for the file updater algorithm. The actual python file is attached to this repository in conjunction with this pdf version: <br/>
