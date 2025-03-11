@@ -9,27 +9,27 @@ I worked on and completed the Google Cybersecurity Certificate in the spring of 
 <p align="center">
 Assign import_file to the file name and remove_list to the IP addresses that no longer have access: <br/>
  <br />
-<img src="Report Converter Code 1.png" height="80%" width="80%" alt="Intilization and Reading Files"/>
+<img src="File Updater Code 1.png" height="80%" width="80%" alt="Intilization and Reading Files"/>
 <br />
 <br />
 Open the file and use the .read() function to convert the content into a string. Store this string in a variable called ip_addresses: <br/>
  <br />
-<img src="Report Converter Code 2.png" height="80%" width="80%" alt="Replacing Line in a File"/>
+<img src="File Updater Code 2.png" height="80%" width="80%" alt="Replacing Line in a File"/>
 <br />
 <br />
 Use the .split() method to convert the ip_addresses string into a list: <br/>
  <br />
-<img src="Report Converter Code 3.png" height="80%" width="80%" alt="Finding the Word 'Total'"/>
+<img src="File Updater Code 3.png" height="80%" width="80%" alt="Finding the Word 'Total'"/>
 <br />
 <br />
 Create a while loop that will remove an element from ip_addresses that matches an element in the remove_list. Use the .remove() method: <br/>
  <br />
-<img src="Report Converter Code 4.png" height="80%" width="80%" alt="Getting the Total Host Number"/>
+<img src="File Updater Code 4.png" height="80%" width="80%" alt="Getting the Total Host Number"/>
 <br />
 <br />
  Use the .join() method to convert ip_addresses into a string, then use the .write() method to write over the import_file variable: <br/>
  <br />
-<img src="Report Converter Code 5.png" height="80%" width="80%" alt="Number of High Severity Vulnerabilities"/>
+<img src="File Updater Code 5.png" height="80%" width="80%" alt="Number of High Severity Vulnerabilities"/>
 <br />
 <br />
 
