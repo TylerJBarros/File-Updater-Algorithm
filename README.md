@@ -44,7 +44,7 @@ This is the complete code for the file updater algorithm. The actual python file
  <br />
  <br />
 <img src="Python Logo.png" height="1.5%" width="1.5%" alt="PDF Logo" />
-<a href="File_Updater.pu\y">File_Updater.py</a>
+<a href="File_Updater.py">File_Updater.py</a>
 
  
 </p>
